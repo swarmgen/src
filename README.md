@@ -1,6 +1,6 @@
-# Testing Drone Swarm Algorithms with Behavioral Mission Partitioning
+# SwarmGen: Generating Challenging Environments for Swarm Testing
 
-This is the project page for Testing Drone Swarm Algorithms with Behavioral Mission Partitioning. Contents that we was not able to cover in the paper due to the paper limit are placed here.
+This is the project page for SwarmGen: Generating Challenging Environments for Swarm Testing. Contents that we was not able to cover in the paper due to the paper limit are placed here.
 
 
 ## Code
