@@ -11,10 +11,20 @@ This is the project page for SwarmGen: Generating Challenging Environments for S
 
 ## Supplementary Materials to the Paper
 ### 1. [Algorithm Selection (for Evaluation)](https://github.com/swarmmissionslicing/src/tree/main/Criteria_for_selecting_algorithms)
-- In **Section IV. Evaluation; A. Experiment Setup. Swarm Algorithm Selection**, we refer to this webpage for the details of selection criteria of the algorithms we evaluated. 
-  - [The complete list of 82 algorithms we searched](https://github.com/swarmmissionslicing/src/tree/main/Criteria_for_selecting_algorithms)
+- In **Evaluation Section; Experiment Setup. Swarm Algorithm Selection**, we refer to this webpage for the details of selection criteria of the algorithms we evaluated. 
+  - [The complete list of algorithms we searched](https://github.com/swarmmissionslicing/src/tree/main/Criteria_for_selecting_algorithms)
 
 
 ### 2. [Detailed Mission Description](https://github.com/swarmmissionslicing/src/tree/main/Mission_description)
-- In **Section IV. Evaluation; A. Experiment Setup. Evaluated Missions**, we refer to this webpage for the details of missions we evaluated. 
+- In **Evaluation Section; Experiment Setup. Evaluated Missions**, we refer to this webpage for the details of missions we evaluated. 
   - [Detailed mission description](https://github.com/swarmmissionslicing/src/tree/main/Mission_description)
+
+
+### 3. [Other Bugs Description](https://github.com/swarmmissionslicing/src/tree/main/Other_bugs)
+- In **Evaluation Section; Effectiveness**, we refer this webpage for more information of the other bugs we found from our approach.
+  - [Bugs description](https://github.com/swarmmissionslicing/src/tree/main/Other_bugs)
+
+
+### 4. [Complexity Score](https://github.com/swarmmissionslicing/src/tree/main/Complexity_score)
+- In **Evaluation Section; Effectiveness of DCC**, we refer this webpage for more details of complexity score that we omitted due to the space limit.
+   - [Details of Complexity Score](https://github.com/swarmmissionslicing/src/tree/main/Complexity_score)

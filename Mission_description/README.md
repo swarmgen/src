@@ -1,30 +1,29 @@
 # Detailed Mission Description
 
-In this page, we provide more details about 10 missions we evaluated in the paper. 
+In this page, we provide more details about 10 missions (before mutated; original given missions) we evaluated in the paper. 
+(Mutated missions are presented in the eartly part of Evaluation Section.)
 
-
-## A1-M1. Flying Through Houses 
-- The swarm passes through houses along the `S' shaped path to reach the goal.
-- Crashes or straggler cases are observed in the area of interest.
-
-![Slide1](https://user-images.githubusercontent.com/112921641/190527981-f75142ee-0732-4139-9bc8-cc308ff7dd96.jpeg)
-
-## A1-M2. Flying Along the Wall
+## A1-M1. Flying Along the Wall
 - The swarm flies through an open field along the wall. 
-- It also has crashes or straggler cases in the area of interest.
+- It has crashes or straggler cases in the red box area.
 
 ![Slide2](https://user-images.githubusercontent.com/112921641/190528005-7476baf2-d5ad-4e6b-886c-3a0d01880e78.jpeg)
 
+## A1-M2. Flying Through Houses 
+- The swarm passes through houses along the `S' shaped path to reach the goal.
+- Crashes or straggler cases are observed in the red box area.
+
+![Slide1](https://user-images.githubusercontent.com/112921641/190527981-f75142ee-0732-4139-9bc8-cc308ff7dd96.jpeg)
 
 ## A1-M3. Flying Through High-Rise Buildings
 - The swarm flies through construction site
-- Swarm crashes to the building flying through a narrow passage, which is the area of interest.
+- Swarm crashes to the building flying through a narrow passage, which is the red box area.
 
 ![Slide3](https://user-images.githubusercontent.com/112921641/190528043-b43f3e5d-8f33-42ae-82b2-895b4cf73ee0.jpeg)
 
 ## A1-M4. Indoor Rescue Support Mission
 - The swarm searches for the victim.
-- It crashes to the wall trying to enter narrow corridors in the area of interest.
+- It crashes to the wall trying to enter narrow corridors in the red box area.
 
 ![Slide4](https://user-images.githubusercontent.com/112921641/190528056-3a685fc4-6078-4cea-9089-764d2a7c256c.jpeg)
 
@@ -37,7 +36,7 @@ In this page, we provide more details about 10 missions we evaluated in the pape
 
 ## A2-M2. Flying Through Downtown
 - The swarm flies through the downtown. 
-- It crashes to the building in the narrow space.
+- It crashes to the building in the red box area.
 
 ![Slide6](https://user-images.githubusercontent.com/112921641/190528092-8fcae51d-dae6-4639-b06f-88f4cdf37dba.jpeg)
 

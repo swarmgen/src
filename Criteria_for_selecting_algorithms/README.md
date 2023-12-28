@@ -1,9 +1,9 @@
 # Criteria for selecting the swarm algorithms in detail
 
-This page contains the contents of criteria for selecting the swarm algorithms in detail, which is mentioned in IV. Evaluation A. Experiment setup.
-We summarized the related contents as a below table. The descriptions for A1~A4 are placed in the paper (the early part of IV. Evaluation).
+This page contains the contents of criteria for selecting the swarm algorithms in detail, which is mentioned in Evaluation Section; Experiment setup.
+We summarized the related contents as a below table. The descriptions for A1~A4 are placed in the paper (the early part of Evaluation Section).
 
-- 82 algorithms are listed in order of Date
+- 96 algorithms are listed in order of Date
   - A1~4: Swarm algorithm selected in the paper
   - 1~30: Swarm algorithm that is executable.
   - 31~51: Swarm algorithm that is not executable.
