@@ -5,9 +5,9 @@ We summarized the related contents as a below table. The descriptions for A1~A4 
 
 - 96 algorithms are listed in order of Date
   - A1~4: Swarm algorithm selected in the paper
-  - 1~30: Swarm algorithm that is executable.
-  - 31~51: Swarm algorithm that is not executable.
-  - 52~78: Swarm algorithm that has paper only.
+  - 1~44: Swarm algorithm that is executable.
+  - 35~65: Swarm algorithm that is not executable.
+  - 66~92: Swarm algorithm that has paper only.
 - Title: The name of system or Github repository (:star: means the algorithm used in the paper).
 - Paper: If the algorithm has published as a research paper, 'O' is marked.
 - Date: Last updated date (if no code, published date).
