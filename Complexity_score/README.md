@@ -5,4 +5,4 @@ Details are in Evaluation Section; Trend of Complexity Score.
 Fixed point is observed as explained with the A1 case. 
 
 
-<img src="A2.jpg" alt="drawing" width="300"/>
+<img src="https://github.com/swarmgen/src/blob/master/Complexity_score/A2.png" alt="drawing" width="200"/>
