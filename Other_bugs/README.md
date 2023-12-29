@@ -1,10 +1,10 @@
 # Bugs Found from Our Mutated Environment
 
 Below table presents details of bugs with root cause.
+This shows our mutated environment discovers more bugs.
 In the third column, * means bugs observed in the original environment (before mutation).
 If the DCC shows difference, we consider they are unique swarm behavior (details are in Evaluation section).
 However even if the swarm behaviors are different, the root causes are the same, we consider they are the same bugs.
-
 
 | Alg. | Consequence (Behavior)        | Bug ID | Root cause                            |
 | ---- | ----------------------------- | ------ | ------------------------------------- |
