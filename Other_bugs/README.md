@@ -33,15 +33,12 @@ However even if the swarm behaviors are different, the root causes are the same,
 |      |                               | 5      | Faulty detrouing method               |
 |      | Slow progress                 | 6\*    | Drones detaching from a swarm         |
 |      |                               |        |                                       |
-|      |                               |        |                                       |
 | A3   | Crash between neighbor drones | 1\*    | Naïve detouring method                |
 |      |                               | 2\*    | Excessive force in APF                |
 |      |                               | 3\*    | Naïve multi-force handling            |
 |      | Crash into external objects   | 2\*    | Excessive force in APF                |
 |      |                               | 3\*    | Naïve multi-force handling            |
-|      |                               |        |                                       |
 |      | Suspended progress            | 4      | Insensitive object detection          |
-|      |                               |        |                                       |
 |      | Slow progress                 | 5      | Drones detaching from a swarm         |
 |      |                               |        |                                       |
 | A4   | Crash between neighbor drones | 1      | Naïve detouring method                |
