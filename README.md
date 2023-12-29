@@ -20,9 +20,9 @@ This is the project page for SwarmGen: Generating Challenging Environments for S
   - [Detailed mission description](https://github.com/swarmgen/src/tree/master/Mission_description)
 
 
-### 3. [Other Bugs Description](https://github.com/swarmgen/src/tree/master/Other_bugs)
+### 3. [Description of Bugs](https://github.com/swarmgen/src/tree/master/Other_bugs)
 - In **Evaluation Section; Effectiveness**, we refer this webpage for more information of the other bugs we found from our approach.
-  - [Bugs description](https://github.com/swarmgen/src/tree/master/Other_bugs)
+  - [Description of Bugs](https://github.com/swarmgen/src/tree/master/Other_bugs)
 
 
 ### 4. [Complexity Score](https://github.com/swarmgen/src/tree/master/Complexity_score)
