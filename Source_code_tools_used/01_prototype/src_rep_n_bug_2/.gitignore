@@ -1,0 +1,8 @@
+*.swp
+*.bak
+*.pyc
+__pycache__/
+.ipynb_checkpoints
+replay*
+result_to_analyze*
+output/*
